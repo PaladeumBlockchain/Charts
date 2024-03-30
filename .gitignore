@@ -1,0 +1,12 @@
+*/**/__pycache__/*
+__pycache__/
+venv/*
+config.py
+
+# misc
+.DS_STORE
+*.db
+
+# Editors
+.idea
+.vscode
